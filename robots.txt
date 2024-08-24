@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hatenjo.github.io/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/app/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/assets/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/css/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/includes/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/item/sitemap.html.gz
+Sitemap: https://hatenjo.github.io/src/sitemap.html.gz
